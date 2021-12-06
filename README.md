@@ -1,3 +1,5 @@
-# Stream Template Repository
+# CE02SHBP-LJ01D-05-ADCPTB104-streamed-adcp_compass_calibration
 
-This repository is a template for all the other repositories.
+Stream Type: Engineering<br>
+Stream Content: Compass Calibration Data<br>
+Instrument Group Code: ADCP<br>
