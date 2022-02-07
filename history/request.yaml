@@ -1,5 +1,5 @@
 data_ready: false
 data_stream: CE02SHBP-LJ01D-05-ADCPTB104-streamed-adcp_compass_calibration
-last_request: '2022-01-21T17:58:01.320054Z'
+last_request: '2022-02-07T19:15:04.484896Z'
 response: https://raw.githubusercontent.com/ooi-data/CE02SHBP-LJ01D-05-ADCPTB104-streamed-adcp_compass_calibration/main/history/response.json
 status: discontinued
